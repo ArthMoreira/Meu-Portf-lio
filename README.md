@@ -30,7 +30,7 @@
 
 ![Captura de tela 2024-12-09 160329](https://github.com/user-attachments/assets/40dd09b5-ae64-482f-856a-542d3d42f270)
 
-Você pode visualizar o portfólio publicado clicando [aqui.](https://meu-portfolio-ten-green.vercel.app/)
+Você pode visualizar o portfólio publicado clicando [aqui.](https://meu-portfolio-eight-sand.vercel.app/)
 
 ## 📬 Contato
 - Se tiver alguma dúvida, sugestão ou feedback, não hesite em entrar em contato comigo através das redes sociais ou pelo formulário no próprio portfólio. 
