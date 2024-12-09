@@ -18,8 +18,7 @@
 - O rodapé alterna o texto para "Desenvolvedor Front-end" ao passar o mouse, um toque especial para finalizar a navegação.
 
 ## 📱 Mobile
-- Totalmente adaptado para dispositivos móveis.
--Layout responsivo, garantindo uma ótima experiência em telas menores.
+- Totalmente adaptado para dispositivos móveis com layout responsivo, garantindo uma ótima experiência em telas menores.
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML
